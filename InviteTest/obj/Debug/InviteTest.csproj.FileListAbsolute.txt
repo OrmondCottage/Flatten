@@ -1,0 +1,11 @@
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\obj\Debug\InviteTest.csprojResolveAssemblyReference.cache
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\InviteTest.dll
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\InviteTest.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\Invite.exe
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\Invite.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\Invite_Accessor.exe
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\bin\Debug\Invite_Accessor.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\obj\Debug\InviteTest.dll
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\InviteTest\obj\Debug\InviteTest.pdb

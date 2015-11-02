@@ -1,0 +1,4 @@
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\Flatten\bin\Debug\Flatten.exe
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\Flatten\bin\Debug\Flatten.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\Flatten\obj\x86\Debug\Flatten.exe
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\Flatten\obj\x86\Debug\Flatten.pdb

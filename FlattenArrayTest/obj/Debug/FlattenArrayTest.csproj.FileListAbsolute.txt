@@ -1,0 +1,9 @@
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\bin\Debug\FlattenArrayTest.dll
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\bin\Debug\FlattenArrayTest.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\obj\Debug\FlattenArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\obj\Debug\FlattenArrayTest.dll
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\obj\Debug\FlattenArrayTest.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\bin\Debug\Flatten.exe
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\bin\Debug\Flatten.pdb
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\niall\OneDrive\Jobs\intercom\SampleCode\Flatten\FlattenArrayTest\bin\Debug\Newtonsoft.Json.xml
